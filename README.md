@@ -9,5 +9,5 @@ This actuator consists of three parts:
 - 24 to 1 cycloidal drive
 - FOC drive based on SimpleFOC
 
+This project is still under development and may have some problems.
 
-The whole project is still under development and can be modified or changed.
